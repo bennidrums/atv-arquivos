@@ -1,0 +1,3 @@
+Alice Liddell;25;alice@email.com
+Chapeleiro Maluco;38;chapeleiro@email.com
+Gato de Cheshire;100;gato@email.com
